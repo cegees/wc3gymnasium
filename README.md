@@ -1,13 +1,13 @@
 # wc3gymnasium
-Build order overlay for Warcraft III melee.
+Build order overlay for Warcraft III Reforged melee players.
 
 
 
 
 ## Installation
-###	current version v0.1 - download 
+###	latest v0.1 - [download](https://github.com/cegees/wc3gymnasium/raw/main/wc3gymnasium.exe)
 
-Run wc3gymnasium.exe from anywhere, (or clone repo and 'python wc3gymnasium.py')
+Run wc3gymnasium.exe from anywhere, (or run via 'python wc3gymnasium.py' to first check the ugly source code)
 
 Copy/create build orders as plain text files saved with .md extension in: 
 	`C:\wc3gymnasium\`
