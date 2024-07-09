@@ -1,7 +1,5 @@
 # wc3gymnasium
-Build order overlay for Warcraft III Reforged melee players.
-
-
+Customizable build order overlay for Warcraft III Reforged melee players.
 
 
 ## Installation
@@ -21,7 +19,13 @@ There are a lot of new players wanting to learn melee and this game is very comp
 
 
 ## Coming soon:
-	- markdown support 
+	- markdown syntax support 
 	- transparency and "invisible" overlay mode
 	- timer sync with current Wc3 match time
 	- race specific UI
+ 	- nicely formatted builds database hosted online
+  	- mini web browser pop up with full build details
+
+## Screenshots
+![image](https://raw.githubusercontent.com/cegees/wc3gymnasium/main/Assets/wc3gymnasium.v0.1.screenshot.ingame.jpg)
+![image](https://raw.githubusercontent.com/cegees/wc3gymnasium/main/Assets/screenshots1-v0.1.png) ![image](https://raw.githubusercontent.com/cegees/wc3gymnasium/main/Assets/screenshots-v0.1.png)
