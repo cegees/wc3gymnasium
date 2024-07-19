@@ -24,13 +24,12 @@ There are a lot of new players wanting to learn melee and this game is very comp
 
 
 ## Future plans:
-	- markdown syntax support 
-	- "click through" overlay mode (I dont know how to do this in python)
+	- markdown? syntax support 
 	- timer sync with current Wc3 match time
-	- race specific UI
+	- race specific UI option
  	- nicely formatted builds database hosted online
   	- mini web browser pop up with full build details
 
 ## Screenshots:
-![image](https://raw.githubusercontent.com/cegees/wc3gymnasium/main/Assets/wc3gymnasium.v0.2.1-screenshot.jpg)
-![image](https://raw.githubusercontent.com/cegees/wc3gymnasium/main/Assets/wc3gymnasium.v0.2.1-screenshot2.png) ![image](https://raw.githubusercontent.com/cegees/wc3gymnasium/main/Assets/wc3gymnasium.v0.2.1-screenshot1.png)
+![image](https://raw.githubusercontent.com/cegees/wc3gymnasium/main/Assets/Screenshot-v3.png)
+![image](https://raw.githubusercontent.com/cegees/wc3gymnasium/main/Assets/1ss-v3.jpg) ![image](https://raw.githubusercontent.com/cegees/wc3gymnasium/main/Assets/2ss-v3.jpg)
