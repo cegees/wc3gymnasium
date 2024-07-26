@@ -1,0 +1,6 @@
+4v4 ORC tc - Headhunters 
+This is the Orc version of Paladin/Rifle. 
+TC/HH is an awesome strategy that is very good if you can use your TC well. Sometimes I'll add a SH as my second hero, but other times I will stay solo TC for a quick level 5 and above. Level 3 Stomp is absolutely ridiculous. 
+The build order is 5 Peons to gold, first Peon builds a Burrow. 2nd Peon makes War Mill, 3rd Peon out makes Barracks. When the Burrow is complete, make a Altar. 
+At 40 wood, make your 2nd Burrow. This will give a similar timing to a late Fiend UD build. You can then add a Shop and 2nd Barracks. Your TC should come out at the same time as your 3rd Headhunter to creep. You should still expand in most cases, and since you have a War Mill already you can bring 2 Peons to the expo, one to expand and one to build and queue towers. 
+At Tier 2, you can fortify your towers and tech for Tier 3/Berserkers. Items like Mana Potions, Speed Scrolls, and a Boots of Speed are great on the Tauren Chieftain. As you tech to Tier 3 with 2x Barracks, you can eventually add Shaman, Witch Doctors, and/or Spirit Walkers (get Shaman if there isn't another Orc on your team) -- but you should have 40-50 food of Headhunters before adding casters.
