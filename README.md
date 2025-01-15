@@ -11,6 +11,7 @@ Save the build orders in the same folder as wc3gymnasium.exe.
 
 
 Download build orders from [build-orders](https://github.com/cegees/wc3gymnasium/tree/main/build-orders) and or make your own!
+[download zip of all build orders](https://github.com/cegees/wc3gymnasium/raw/refs/heads/main/build-orders.zip)
 
 Create/copy-paste build orders as plain text files saved with .md extension. wc3gymnasium will search for .md in the directory the exe is located in.
 
