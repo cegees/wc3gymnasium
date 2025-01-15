@@ -4,6 +4,7 @@ Customizable build order overlay for Warcraft III Reforged melee players.
 
 ## Installation:
 ###	latest v0.4 - [download](https://github.com/cegees/wc3gymnasium/raw/refs/heads/main/release.zip)
+###	NOTE: WIP, I DO NOT KNOW THE DEPENDENCIES NEEDED TO RUN THIS. IF YOU HAVE .NET FRAMEWORKS AND HAVE INSTALLED SOMETHING FROM FITGIRL REPACKS WITH ALL THOSE INSTALLERS, IT SHOULD WORK
 
 Run wc3gymnasium.exe from anywhere
 Save the build orders in the same folder as wc3gymnasium.exe.
